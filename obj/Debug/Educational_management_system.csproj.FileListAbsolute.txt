@@ -1,0 +1,19 @@
+C:\Users\Beso\Documents\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\bin\Debug\Educational_management_system.exe.config
+C:\Users\Beso\Documents\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\bin\Debug\Educational_management_system.exe
+C:\Users\Beso\Documents\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\bin\Debug\Educational_management_system.pdb
+C:\Users\Beso\Documents\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\obj\Debug\Educational_management_system.csprojResolveAssemblyReference.cache
+C:\Users\Beso\Documents\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\obj\Debug\Educational_management_system.exe
+C:\Users\Beso\Documents\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\obj\Debug\Educational_management_system.pdb
+E:\دراسه تانيه\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\bin\Debug\Educational_management_system.exe.config
+E:\دراسه تانيه\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\obj\Debug\Educational_management_system.exe
+E:\دراسه تانيه\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\obj\Debug\Educational_management_system.pdb
+E:\دراسه تانيه\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\bin\Debug\Educational_management_system.exe
+E:\دراسه تانيه\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\bin\Debug\Educational_management_system.pdb
+E:\دراسه تانيه\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\obj\Debug\Educational_management_system.csprojResolveAssemblyReference.cache
+E:\Ahmed\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\bin\Debug\Educational_management_system.exe.config
+E:\Ahmed\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\bin\Debug\Educational_management_system.exe
+E:\Ahmed\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\bin\Debug\Educational_management_system.pdb
+E:\Ahmed\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\obj\Debug\Educational_management_system.csprojResolveAssemblyReference.cache
+E:\Ahmed\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\obj\Debug\Educational_management_system.csproj.CoreCompileInputs.cache
+E:\Ahmed\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\obj\Debug\Educational_management_system.exe
+E:\Ahmed\projects\Visual Studio 2012\Projects\Educational_management_system\Educational_management_system\obj\Debug\Educational_management_system.pdb
